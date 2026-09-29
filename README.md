@@ -13,7 +13,7 @@ REPOSITÓRIO 1
 
 1. Identificação do repositório
 • Nome do repositório: meu-portfolio
-• Link do repositório: https://github.com/luizalexsander/meu-portfolio
+• Link do repositório: [https://github.com/luizalexsander/meu-portfolio](https://github.com/luizalexsander/Atividade-cooding)
 
 2. Finalidade do projeto
 Exibir meus projetos acadêmicos, apresentar minhas habilidades técnicas em desenvolvimento de software e disponibilizar meus contatos profissionais em uma única página.
@@ -54,7 +54,7 @@ REPOSITÓRIO 2
 
 1. Identificação do repositório
 • Nome do repositório: sistema-cadastro-clientes
-• Link do repositório: https://github.com/luizalexsander/sistema-cadastro-clientes
+• Link do repositório: [https://github.com/luizalexsander/sistema-cadastro-clientes](https://github.com/luizalexsander/pROJETO-HTML-CSS)
 
 2. Finalidade do projeto
 Automatizar o registro, listagem e remoção de dados de clientes em terminal. O projeto resolve a necessidade de armazenar dados simples sem depender de um banco de dados complexo.
@@ -95,7 +95,7 @@ REPOSITÓRIO 3
 
 1. Identificação do repositório
 • Nome do repositório: exercicios-estrutura-de-dados
-• Link do repositório: https://github.com/luizalexsander/exercicios-estrutura-de-dados
+• Link do repositório: [https://github.com/luizalexsander/exercicios-estrutura-de-dados](https://github.com/luizalexsander/Meu-desenvolvimento-)
 
 2. Finalidade do projeto
 Organizar os códigos e soluções de exercícios práticos desenvolvidos durante a disciplina de Estrutura de Dados na faculdade.
