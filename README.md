@@ -4,127 +4,134 @@ Atividade e aprendizados da disciplina de coding:
 
 DISCIPLINA: Coding — I Unidade
 NOME DO(A) ESTUDANTE: Luiz Alexsander Dias Oliveira
+DISCIPLINA: Coding — I Unidade
+NOME DO(A) ESTUDANTE: Luiz Alexsander Dias Oliveira
 TURMA: ADS-A
 DATA: 28/09/2026
 
-======================================================================
 REPOSITÓRIO 1
-======================================================================
-
 1. Identificação do repositório
-• Nome do repositório: meu-portfolio
-• Link do repositório: [https://github.com/luizalexsander/meu-portfolio](https://github.com/luizalexsander/Atividade-cooding)
-
+Nome do repositório: Atividade-cooding
+Link: https://github.com/luizalexsander/Atividade-cooding
 2. Finalidade do projeto
-Exibir meus projetos acadêmicos, apresentar minhas habilidades técnicas em desenvolvimento de software e disponibilizar meus contatos profissionais em uma única página.
+
+O repositório tem como finalidade apresentar uma atividade e os aprendizados desenvolvidos durante a disciplina de Coding, reunindo os conteúdos e informações trabalhados na primeira unidade.
 
 3. Proprietário do repositório
+
 Pessoa física (luizalexsander).
 
 4. Linguagem predominante
-HTML
+
+HTML.
 
 5. Histórico de commits
-12 commits
+
+O repositório possui 4 commits.
 
 6. Colaboradores ou contribuidores
-1 contribuidor (luizalexsander).
+
+1 contribuidor: luizalexsander.
 
 7. Arquivo README
-Sim, possui. O arquivo serve como apresentação do site e guia de navegação. 
-Duas informações relevantes:
-1. O link de acesso direto à aplicação via GitHub Pages.
-2. A lista de linguagens e tecnologias utilizadas (HTML5, CSS3 e JavaScript).
 
+Sim, possui. O README apresenta a atividade desenvolvida na disciplina de Coding e reúne informações sobre os repositórios analisados.
+
+Duas informações relevantes:
+
+Identificação do estudante, turma, disciplina e data da atividade.
+Descrição e análise dos três repositórios utilizados na atividade.
 8. Issues
-• a) Título da Issue: Ajustar responsividade no menu mobile
-• b) Problema/Solicitação: O menu de navegação quebra o layout em telas de celular com menos de 480px de largura.
-• c) O que está sendo discutido: Discussão sobre como aplicar media queries no arquivo CSS e substituir o menu fixo por um menu hambúrguer para melhorar a navegação em telas pequenas.
+
+O repositório possui 0 Issues no momento da consulta. Portanto, não há uma Issue aberta para analisar.
 
 9. Análise de um commit
-• a) Mensagem do commit: feat: adiciona secao de contatos e ajusta rodape
-• b) Autor: luizalexsander
-• c) Data: 15/08/2026
-• d) O que aparentemente foi alterado: Adição de uma nova tag <section> com links para LinkedIn e e-mail no arquivo index.html, além da estilização das margens do rodapé no arquivo style.css.
 
+O repositório possui 4 commits. A análise deve considerar um dos commits disponíveis no histórico do GitHub, observando sua mensagem, autor, data e alterações realizadas.
 
-======================================================================
+-
+
 REPOSITÓRIO 2
-======================================================================
-
 1. Identificação do repositório
-• Nome do repositório: sistema-cadastro-clientes
-• Link do repositório: [https://github.com/luizalexsander/sistema-cadastro-clientes](https://github.com/luizalexsander/pROJETO-HTML-CSS)
-
+Nome do repositório: pROJETO-HTML-CSS
+Link: https://github.com/luizalexsander/pROJETO-HTML-CSS
 2. Finalidade do projeto
-Automatizar o registro, listagem e remoção de dados de clientes em terminal. O projeto resolve a necessidade de armazenar dados simples sem depender de um banco de dados complexo.
+
+O projeto tem como finalidade praticar os conhecimentos básicos de HTML e CSS, por meio da criação de uma página simples.
 
 3. Proprietário do repositório
+
 Pessoa física (luizalexsander).
 
 4. Linguagem predominante
-Python
+
+HTML e CSS.
 
 5. Histórico de commits
-8 commits
+
+O repositório possui 2 commits.
 
 6. Colaboradores ou contribuidores
-1 contribuidor (luizalexsander).
+
+1 contribuidor: luizalexsander.
 
 7. Arquivo README
-Sim, possui. A função do arquivo é instruir o usuário sobre como executar a aplicação. 
-Duas informações relevantes:
-1. Requisito de ter o Python 3 instalado na máquina.
-2. O comando exato para rodar o projeto no terminal (python main.py).
 
+Sim, possui. O README apresenta o projeto como um projeto simples para praticar HTML e CSS.
+
+Duas informações relevantes:
+
+O objetivo é praticar HTML e CSS.
+O projeto possui um arquivo index.html para a construção da página.
 8. Issues
-• a) Título da Issue: Validar formato do e-mail no cadastro
-• b) Problema/Solicitação: O sistema aceita qualquer texto no campo de cadastro sem verificar se é um e-mail válido.
-• c) O que está sendo discutido: Discussão sobre implementar uma função de validação com expressões regulares (Regex) para garantir que o texto inserido contenha @ e um domínio válido antes de salvar os dados.
+
+O repositório possui 1 Issue.
+
+A Issue deve ser analisada diretamente na página de Issues do GitHub, identificando o título, o problema ou solicitação e o que está sendo discutido.
 
 9. Análise de um commit
-• a) Mensagem do commit: fix: corrige erro ao salvar dados no arquivo txt
-• b) Autor: luizalexsander
-• c) Data: 02/09/2026
-• d) O que aparentemente foi alterado: Alteração do modo de abertura do arquivo no script funcoes.py de 'w' (sobrescrever) para 'a' (adicionar ao final), evitando a perda de cadastros anteriores.
 
+O repositório possui 2 commits. A análise deve considerar um dos commits disponíveis no histórico, verificando a mensagem, o autor, a data e as alterações realizadas.
 
-======================================================================
+-
+
 REPOSITÓRIO 3
-======================================================================
-
 1. Identificação do repositório
-• Nome do repositório: exercicios-estrutura-de-dados
-• Link do repositório: [https://github.com/luizalexsander/exercicios-estrutura-de-dados](https://github.com/luizalexsander/Meu-desenvolvimento-)
-
+Nome do repositório: Meu-desenvolvimento-
+Link: https://github.com/luizalexsander/Meu-desenvolvimento-
 2. Finalidade do projeto
-Organizar os códigos e soluções de exercícios práticos desenvolvidos durante a disciplina de Estrutura de Dados na faculdade.
+
+A finalidade do projeto deve ser descrita de acordo com os arquivos e informações disponíveis no próprio repositório.
 
 3. Proprietário do repositório
+
 Pessoa física (luizalexsander).
 
 4. Linguagem predominante
-Java
+
+Deve ser identificada diretamente no GitHub.
 
 5. Histórico de commits
-15 commits
+
+Deve ser informado de acordo com o histórico apresentado no GitHub.
 
 6. Colaboradores ou contribuidores
-1 contribuidor (luizalexsander).
+
+Deve ser informado de acordo com a página do repositório.
 
 7. Arquivo README
-Sim, possui. A função dele é estruturar o conteúdo do repositório por tópicos e aulas. 
-Duas informações relevantes:
-1. O mapeamento de cada questão da lista para a sua respectiva classe Java.
-2. Instruções sobre qual versão do JDK utilizar para compilar os arquivos sem erros.
+
+Deve ser verificado diretamente no repositório para identificar se possui README e quais informações relevantes são apresentadas.
 
 8. Issues
-• a) Título da Issue: Implementar remocao do no central na lista encadeada
-• b) Problema/Solicitação: O método de remoção atual só funciona para o primeiro e o último elemento da lista.
-• c) O que está sendo discutido: Análise sobre como reatribuir os ponteiros do nó anterior e do próximo nó para excluir o elemento do meio da memória sem perder a referência da lista.
+
+Deve ser verificado diretamente na aba Issues do repositório.
 
 9. Análise de um commit
-• a) Mensagem do commit: docs: atualiza enunciados das questoes no readme
-• b) Autor: luizalexsander
-• c) Data: 20/09/2026
-• d) O que aparentemente foi alterado: Edição do arquivo README.md para incluir os enunciados detalhados das questões sobre pilhas e filas.
+
+Deve ser selecionado um commit real do histórico do repositório, informando:
+
+Mensagem do commit;
+Autor;
+Data;
+Alterações realizadas.
